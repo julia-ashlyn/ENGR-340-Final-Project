@@ -31,12 +31,18 @@ The main program of this repository is final_project.py. It is the only program 
 **Tutorial**
 
 To operate this code, you must simply have all of the data downloaded and ensure the pathways remain the same as set up in the repository. Then, you run the main code, final_project.py. 
-Once the code is run, the progression of the program is to follow the order of questions to be answered. 
+Initially, there are two functions defined. One to load the file and return the right eye and left eye PERG signals, load_file(). The second to conduct a two-sided t-test, statistical_test(), returning the p_value and the result of the test in the form of True, meaning the signals are statistically the same, or False, the signals are statistically different. The code then moves on to answering the questions in order. 
 
-Address general topic and challenge the code addresses
-a list of any required dependencies and additional programs
-the main programs written to analyze the data
-a tutorial/walkthrough of how to operate the code
-a sample of results from the analysis
-any limitations on running the program
-a brief discussion of future results
+**Sample of Results**
+
+Enter Sample Results Here
+
+**Limitations of Program**
+
+This program is only able to analyze the data files included in the repository. 
+
+**Future Results** 
+
+Enter future results here. 
+
+
