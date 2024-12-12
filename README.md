@@ -31,7 +31,7 @@ The main program of this repository is final_project.py. It is the only program 
 **Tutorial**
 
 To operate this code, you must simply have all of the data downloaded and ensure the pathways remain the same as set up in the repository. Then, you run the main code, final_project.py. 
-Initially, there are two functions defined. One to load the file and return the right eye and left eye PERG signals, load_file(). The second to conduct a two-sided t-test, statistical_test(), returning the p_value and the result of the test in the form of True, meaning the signals are statistically the same, or False, the signals are statistically different. The code then moves on to answering the questions in order. 
+Initially, there are two functions defined. One to load the file and return the right eye and left eye PERG signals, load_file(). The second to conduct a two-sided t-test, statistical_test(), returning the p_value and the result of the test in the form of True, meaning the signals are statistically the same, or False, the signals are statistically different. The code then moves on to answering the questions in order. Files are first loaded and variables separated. Statistical tests are then conducted, and plots follow. Statistical tests will print a result identifying how many tests were conducted for the files, how many of the tests returned that the data was statistically the same and how many tests returned that the data was statistically different. If there were more "True", statistically the same, results than "False", statistically different, then it is determined that the signals from the different conditions are the same. The opposite would print that the signals from different conditions are false. The next results are plots. All of the right eye results from each condition are plotted on a graph, and the same for left eye results. One example with a "True" result from the statistical test plots the two data sets that were considered the same, and one plot for the "False" result also is created. These steps repeat for the second two questions. 
 
 **Sample of Results**
 
@@ -55,7 +55,7 @@ Graph of Two Compared Signals:
 
 This program is only able to analyze the data files included in the repository. Although the program functions as it should and does compare signals from various conditions, the tests may not be the best method to determine if the pattern electroretinogram could be used to aid in diagnostic practices for retinitis pigmentosa. This is because comparing the right eye of normal with no note conditions against each other resulted also in a statistically different result. Therefore, no PERG signal seems to really be statistically similar enough to warrant meaninful conclusions solely based on the statistical analysis. 
 
-The above observations reveal that it is important to observe the graphical visualizations of the data and compare shapes of the graphs when determining differences between PERG signals of 
+The above observations reveal that it is important to observe the graphical visualizations of the data and compare shapes of the graphs when determining differences between PERG signals of various conditions. 
 
 **Future Results** 
 
