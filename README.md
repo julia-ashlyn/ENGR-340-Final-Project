@@ -38,6 +38,13 @@ Initially, there are two functions defined. One to load the file and return the 
 Results of statistical tests: 
 ![image](https://github.com/user-attachments/assets/5dc0153b-064b-46fb-beeb-18b7b2ba1095)
 
+Graph of All Normal No Notes Conditions Right Eye Signals: 
+![Figure_1](https://github.com/user-attachments/assets/5ae1b112-2e2d-422f-b115-11522c466102)
+
+Graph of Two Compared Signals: 
+![Figure_2](https://github.com/user-attachments/assets/8f7a9281-c496-4c7d-b061-90002479019a)
+
+
 
 **Limitations of Program**
 
