@@ -35,14 +35,18 @@ Initially, there are two functions defined. One to load the file and return the 
 
 **Sample of Results**
 
-Enter Sample Results Here
+Results of statistical tests: 
+![image](https://github.com/user-attachments/assets/5dc0153b-064b-46fb-beeb-18b7b2ba1095)
+
 
 **Limitations of Program**
 
-This program is only able to analyze the data files included in the repository. 
+This program is only able to analyze the data files included in the repository. Although the program functions as it should and does compare signals from various conditions, the tests may not be the best method to determine if the pattern electroretinogram could be used to aid in diagnostic practices for retinitis pigmentosa. This is because comparing the right eye of normal with no note conditions against each other resulted also in a statistically different result. Therefore, no PERG signal seems to really be statistically similar enough to warrant meaninful conclusions solely based on the statistical analysis. 
+
+The above observations reveal that it is important to observe the graphical visualizations of the data and compare shapes of the graphs when determining differences between PERG signals of 
 
 **Future Results** 
 
-Enter future results here. 
+In the future, this program could develop into being able to compare more data files. In the current code, there are only 30 data files being compared, 10 for each condition. Ideally, the program would be iterated to be able to include more data files. 
 
-
+Additionally, this code could be iterated after a better understanding of PERG data is grasped and how results are used in a clinical setting. 
