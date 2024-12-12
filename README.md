@@ -12,9 +12,13 @@ The purpose of this program is to use statistical analysis and graphical compari
 **Depedencies and Additional Programs**
 
 This program requires that the following packages be installed: 
+
 scipy
+
 numpy
+
 matplotlib
+
 textwrap
 
 **Main Programs**
